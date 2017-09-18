@@ -1,0 +1,8 @@
+{
+  "name": "Manage Book Trading Club",
+  "description": "A Node.js app to manage books.",
+  "repository": "https://github.com/amanganiello90/mbook-app-codecamp",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}
